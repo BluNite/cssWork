@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 # 01 HTML, CSS and GIT: Code Refractor
@@ -29,7 +28,11 @@ Then they fall in sequential order
 THEN I find a concise, descriptive title
 
 ```
+
 =======
+
 # https://blunite.github.io/cssWork/
+
 ![css_new_pic](https://user-images.githubusercontent.com/75630576/212125851-e7b90ceb-42f7-49f8-81c0-88ffd3cc3582.jpeg)
->>>>>>> ca5a56025e5f03471ea472849872c9464ecba4a8
+
+> > > > > > > ca5a56025e5f03471ea472849872c9464ecba4a8

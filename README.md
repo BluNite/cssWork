@@ -15,6 +15,7 @@ SO THAT our own site is optimized for search engines
 
 ```
 ## Deployed 
+
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code

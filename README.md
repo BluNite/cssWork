@@ -28,3 +28,7 @@ Then they fall in sequential order
 THEN I find a concise, descriptive title
 
 ```
+
+## Image
+
+![image info](template_work/assets/images/css_work_image.jpeg)

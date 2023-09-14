@@ -1,0 +1,17 @@
+// Select the Existing DOM element <div id = "root" class = "m-5"
+var rootEl = $('#root');
+var quoteEl = $('<div>');
+var quoteEl_two = $('<div>');
+var authorEl = $('<p>')
+authorEl.text('Albert Einstein');
+quoteEl.text('The measure of intelligence is the ability to change')
+authorEl.addClass('plain');
+quoteEl.attr('class', 'fancy');
+quoteEl_two.attr('class', 'fancy');
+quoteEl.append(authorEl);
+rootEl.append(quoteEl);
+
+
+
+
+

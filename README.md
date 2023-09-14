@@ -14,7 +14,7 @@ I want a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ```
-
+## Deployed https://github.com/BluNite/blu-Chai-Mocha-testing
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -32,3 +32,5 @@ THEN I find a concise, descriptive title
 ## Image
 
 ![image info](template_work/assets/images/css_work_image.jpeg)
+
+# https://github.com/BluNite/blu-Chai-Mocha-testing

@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 # 01 HTML, CSS Landing Page
 
@@ -14,7 +14,9 @@ I want a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ```
-## Deployed 
+
+## Deployed
+
 ## https://blunite.github.io/cssWork/
 
 ```
@@ -33,6 +35,4 @@ THEN I find a concise, descriptive title
 
 ## Image
 
-![image info](template_work/assets/images/css_work_image.jpeg)
-
-
+![image info](/template_work/assets/images/hero.png)
